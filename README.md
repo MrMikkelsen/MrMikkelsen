@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Student at LTH - Intern at OQAM</h3>
+<h3 align="center">Student at LTH - Intern at [OQAM](https://www.oqam.se)</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrMikkelsen](https://github.com/MrMikkelsen)
 
