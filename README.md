@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Student at LTH - Intern at [OQAM](https://www.oqam.se)</h3>
+<h3 align="center">Student at LTH in Computer Science and Engineering</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrMikkelsen](https://github.com/MrMikkelsen)
 
+- 💼 Intern at [OQAM](https://www.oqam.se)
+  
 - 📫 How to reach me **victor.e.mikkelsen@gmail.com**
 
 - 🔭 I’m interested in **compilers, mathematical statistics, machine learning and algorithms**
