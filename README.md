@@ -2,7 +2,7 @@
 <h3 align="center">Student at LTH in Computer Science and Engineering</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrMikkelsen](https://github.com/MrMikkelsen)
+- 👨‍💻 Public projects available at [https://github.com/MrMikkelsen](https://github.com/MrMikkelsen)
 
 - 💼 Intern at [OQAM](https://www.oqam.se)
   
