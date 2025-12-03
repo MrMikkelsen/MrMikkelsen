@@ -8,7 +8,7 @@
   
 - 📫 How to reach me **victor.e.mikkelsen@gmail.com**
 
-- 🔭 I’m interested in **mathematical statistics, machine learning and algorithms**
+- 🔭 I’m interested in **low-level programming, machine learning and algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
