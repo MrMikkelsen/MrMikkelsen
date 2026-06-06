@@ -4,11 +4,11 @@
 
 - 👨‍💻 Public projects available at [https://github.com/MrMikkelsen](https://github.com/MrMikkelsen)
 
-- 💼 Intern at [OQAM](https://www.oqam.se)
+- 💼 [OQAM](https://www.oqam.se) and [Ericsson](https://www.ericsson.com/en)
   
 - 📫 How to reach me **victor.e.mikkelsen@gmail.com**
 
-- 🔭 I’m interested in **C/C++, Optimising Compilers, Machine Learning, and Algorithms**
+- 🔭 I am especially interested in **C/C++, Optimising Compilers, and FPGAs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
